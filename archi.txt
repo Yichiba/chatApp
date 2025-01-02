@@ -1,0 +1,12 @@
+/your-project
+├── /config
+│   └── db.js         // Database connection logic
+├── /controllers
+│   └── yourController.js  // Your route logic
+├── /models
+│   └── yourModel.js      // Mongoose schema models
+├── /middlewares
+│   └── yourMiddleware.js  // Custom middlewares
+├── /routers
+│   └── yourRouter.js     // Express route handling
+├── server.js 
